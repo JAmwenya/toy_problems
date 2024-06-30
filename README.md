@@ -9,11 +9,14 @@
     * alert function - displays the student grade in the browser after user enters the marks
 
 * speed_detector.js
-    * speedDetector - a function that takes the speed of a car as input e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+    * speedDetector function - a function that takes the speed of a car as input e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
 
    > For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
         
     * prompt function - allows users to enter input while using the browser
     * alert function - displays the demerit point for the speed that has been input by the user.
 
- 
+ * net_salary_calculator.js
+    * netSalaryCalculator function - calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary.
+
+    * calculatePayee, calculateNHIF, calculateNSSF - functions that calculate the payee,NHIF and NSSF respectively
