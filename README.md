@@ -20,3 +20,5 @@
     * netSalaryCalculator function - calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary.
 
     * calculatePayee, calculateNHIF, calculateNSSF - functions that calculate the payee,NHIF and NSSF respectively
+    * prompt function - allows users to enter input while using the browser
+    * alert function - displays the payee, nhif and nssf deductions as well as the gross and net salaries
